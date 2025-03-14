@@ -1,4 +1,14 @@
-- [Introduction](#Introduction)
+# GDB (GNU Debugger)
+
+## Overview
+
+GDB (GNU Debugger) is the most powerful debugging tool for C and C++ applications. You can use it to:
+✅ Step through code line by line
+✅ Set breakpoints and watch variables
+✅ Analyze crashes and core dumps
+✅ Debug multi-threaded programs
+✅ Modify variables at runtime
+
 - [Steps to perform while debugging the code](#Steps-to-perform-while-debugging-the-code)
 - [Advanced GDB Features](#Advanced-GDB-Features)
 - [Uses of TUI](#Uses-of-TUI)
@@ -10,14 +20,6 @@
 - [Summary of Important GDB Commands](#Summary-of-Important-GDB-Commands)
 - [Resources and roadmap](#Resources-and-roadmap)
 
-
-## Introduction
-GDB (GNU Debugger) is the most powerful debugging tool for C and C++ applications. You can use it to:
-✅ Step through code line by line
-✅ Set breakpoints and watch variables
-✅ Analyze crashes and core dumps
-✅ Debug multi-threaded programs
-✅ Modify variables at runtime
 
 ## Steps to perform while debugging the code
 
